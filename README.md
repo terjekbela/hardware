@@ -19,7 +19,7 @@
 - [EXTRUSIONconnector](https://a360.co/3mmYJHq)
 
 ### 3D printing related
-- FILAMENTGUIDEadaptor (WiP)
+- FILAMENTGUIDEadaptor
 
 ## Home & Family
 - CAMpolemount
