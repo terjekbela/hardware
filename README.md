@@ -19,7 +19,7 @@
 - [EXTRUSIONconnector](https://a360.co/3mmYJHq)
 
 ### 3D printing related
-- FILAMENTGUIDEadaptor
+- [FILAMENTGUIDEadaptor](https://a360.co/3KDVELv)
 
 ## Home & Family
 - CAMpolemount
@@ -30,5 +30,5 @@
 - TOASTERknob
 
 ## Designed for Friends
-- ATIthingie
-- CRYSlight
+- [ATIthingie](https://a360.co/3Aa4BbB)
+- [CRYSlight](https://a360.co/3BLwua0)
